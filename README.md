@@ -1,5 +1,5 @@
 <p align="center">
-<b> # 🛡️ Parzival - Your Firendly Knight Packet Sniffer</b> 
+<b> 🛡️ Parzival - Your Firendly Knight Packet Sniffer</b> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -11,26 +11,36 @@
 </p>
 
 <p align="center">
-Parzival is a lightweight **network traffic analyzer & packet sniffer** built with Python and Tkinter.  
-It lets you **capture live packets**, analyze HTTP/TLS traffic, detect cleartext credentials, and view real-time bandwidth and protocol statistics — all with a simple desktop UI.
+Parzival is a lightweight network traffic analyzer & packet sniffer built with Python and Tkinter.  
+It lets you capture live packets, analyze HTTP/TLS traffic, detect cleartext credentials, and view real-time bandwidth and protocol statistics — all with a simple desktop UI.
 
-![Parzival Screenshot](screenshots/main_ui.png)
+![Parzival Screenshot](screenshots/main.png)
 
 ---
 
 ## 📑 Table of Contents
 
+- [Caution](#-educational-use-only) 
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Installation](#-installation)
 - [Running with Sudo / Administrator Privileges](#-running-with-sudo--administrator-privileges)
 - [Usage Guide](#-usage-guide)
 - [Screenshots](#-screenshots)
-- [License](#-license)
 - [Author](#-author)
+- [License](#-license)
+
 
 ---
 
+## 🖊️ Educational Use Only
+
+Parzival is provided for learning, research, and testing in controlled environments.  
+Use it only on networks and systems that you own or for which you have explicit permission.  
+You are responsible for complying with all applicable laws and policies in your jurisdiction.  
+The authors and contributors are not liable for misuse, damage, or legal issues that arise from improper use.
+
+---
 ## ✨ Features
 
 - **✅ Capture & PCAP Import/Export**  
@@ -93,7 +103,7 @@ It lets you **capture live packets**, analyze HTTP/TLS traffic, detect cleartext
 
 1. **Clone this repository or download as zip**
    ```bash
-   git clone https://github.com/yourusername/parzival.git
+   git clone https://github.com/AvatarParzival/parzival.git
    cd parzival
    ```
 
@@ -195,19 +205,20 @@ Windows doesn’t have `sudo`. Instead:
 
 | Packets View | Statistics Dashboard |
 |--------------|----------------------|
-| ![Packets Tab](screenshots/packets_tab.png) | ![Stats Tab](screenshots/stats_tab.png) |
+| ![Packets Tab](screenshots/main.png) | ![Stats Tab](screenshots/stats.png) |
 
 | HTTP Analysis | TLS Analysis |
 |---------------|-------------|
-| ![HTTP Tab](screenshots/http_tab.png) | ![TLS Tab](screenshots/tls_tab.png) |
+| ![HTTP Tab](screenshots/HTTP.png) | ![TLS Tab](screenshots/TLS.png) |
 
 ---
 
 ## 🧑‍💻 Author
 
-**Parzival** was created and maintained by **Your Name**  
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+**Parzival** was created and maintained by **Abdullah Zubair**  
+- GitHub: [@AvatarParzival](https://github.com/AvatarParzival)
+- LinkedIn: [Abdullah Zubair](https://www.linkedin.com/in/abdullahzubairr)
+- Email: [abdullah69zubair@gmail.com](abdullah69zubair@gmail.com)
 
 ---
 
