@@ -23,10 +23,10 @@ It lets you capture live packets, analyze HTTP/TLS traffic, detect cleartext cre
 - [Caution](#%EF%B8%8F-educational-use-only) 
 - [Features](#-features)
 - [Tech Stack](#%EF%B8%8F-tech-stack)
+- [Screenshots](#-screenshots)
 - [Installation](#-installation)
 - [Running with Sudo / Administrator Privileges](#-running-with-sudo--administrator-privileges)
 - [Usage Guide](#%EF%B8%8F-usage-guide)
-- [Screenshots](#-screenshots)
 - [Author](#%E2%80%8D-author)
 - [License](#-license)
 
@@ -96,6 +96,19 @@ The authors and contributors are not liable for misuse, damage, or legal issues 
 - **NumPy** — smoothing bandwidth graph
 - **Pandas + OpenPyXL** — Excel export
 - **CSV** — packet & credential export
+
+---
+
+
+## 📸 Screenshots
+
+| Packets View | Statistics Dashboard |
+|--------------|----------------------|
+| ![Packets Tab](screenshots/main.png) | ![Stats Tab](screenshots/Stats.png) |
+
+| HTTP Analysis | TLS Analysis |
+|---------------|-------------|
+| ![HTTP Tab](screenshots/HTTP.png) | ![TLS Tab](screenshots/TLS.png) |
 
 ---
 
@@ -198,18 +211,6 @@ Windows doesn’t have `sudo`. Instead:
    - **Credentials**: review auto-detected creds & export.
    - **Follow TCP Stream**: view conversations & export as text.
 5. Use the **File menu** to **save/load PCAP** or **export data** (CSV/XLSX/TXT).
-
----
-
-## 📸 Screenshots
-
-| Packets View | Statistics Dashboard |
-|--------------|----------------------|
-| ![Packets Tab](screenshots/main.png) | ![Stats Tab](screenshots/stats.png) |
-
-| HTTP Analysis | TLS Analysis |
-|---------------|-------------|
-| ![HTTP Tab](screenshots/HTTP.png) | ![TLS Tab](screenshots/TLS.png) |
 
 ---
 
