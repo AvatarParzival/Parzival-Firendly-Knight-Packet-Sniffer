@@ -1,5 +1,5 @@
 <p align="center">
-<b> 🛡️ Parzival - Your Firendly Knight Packet Sniffer</b> 
+<b> 🛡️ Parzival - Your Friendly Knight Packet Sniffer</b> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -20,14 +20,14 @@ It lets you capture live packets, analyze HTTP/TLS traffic, detect cleartext cre
 
 ## 📑 Table of Contents
 
-- [Caution](#-educational-use-only) 
+- [Caution](#%EF%B8%8F-educational-use-only) 
 - [Features](#-features)
-- [Tech Stack](#-tech-stack)
+- [Tech Stack](#%EF%B8%8F-tech-stack)
 - [Installation](#-installation)
 - [Running with Sudo / Administrator Privileges](#-running-with-sudo--administrator-privileges)
-- [Usage Guide](#-usage-guide)
+- [Usage Guide](#%EF%B8%8F-usage-guide)
 - [Screenshots](#-screenshots)
-- [Author](#-author)
+- [Author](#%E2%80%8D-author)
 - [License](#-license)
 
 
